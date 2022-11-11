@@ -7,7 +7,7 @@ body{
 }
 
 header{
-    background-image: url(/assets/images/Header\ Background.png);
+    background-image: url(../assets/images/Header\ Background.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
