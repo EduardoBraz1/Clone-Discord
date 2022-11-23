@@ -1,3 +1,2 @@
 # Clone-Discord
-Clone do discord praticando responsividade
-Não foi usado Frameworks nesse projeto
+Clone do discord praticando responsividade | Não foi usado Frameworks nesse projeto
